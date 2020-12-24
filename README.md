@@ -1,2 +1,7 @@
-# Boutique-Tebex-MasterLua
-Ma boutique et nike ce qui la vend bande de zgeg
+# Boutique Tebex
+
+## Prerequisite
+- I will help nobody !
+
+## Credit
+💖 Create by MasterLua
